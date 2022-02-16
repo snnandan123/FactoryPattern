@@ -1,4 +1,4 @@
-package com.te.switchcondition;
+//package com.te.switchcondition;
 
 import java.util.Scanner;
 
